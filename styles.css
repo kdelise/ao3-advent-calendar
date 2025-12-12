@@ -145,6 +145,7 @@ body {
   height: 532.1px;
   color: #fff;
   font-family: Raleway;
+  pointer-events: none;
   }
   .b {
   position: absolute;
