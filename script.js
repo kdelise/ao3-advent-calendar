@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
       1: "Starting off soft, here's some <br><a href='https://archiveofourown.org/works/59349097' target='_blank'>KunTen!</a>",
       2: "!NSFW! <br>As you see all NSFW ones will be marked, but heres a short <a href='https://archiveofourown.org/works/75258781' target='_blank'>SyongTonSeok</a> for today",
       3: "!NSFW! <br><a href='https://archiveofourown.org/works/41607303' target='_blank'>SungKun</a> but make it fem",
-      4: "Story for Day 4!",
+      4: "Some domestic <a href='https://archiveofourown.org/works/65589454' target='_blank'>JohnMark</a> <br>ft violinist Mark and soccer star Johnny",
       5: "Story for Day 5!",
       6: "Story for Day 6!",
       7: "Story for Day 7!",
