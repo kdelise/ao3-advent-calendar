@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
       10: "Story for Day 10!",
       11: "Story for Day 11!",
       12: "Story for Day 12!",
-      13: "<a href='https://archiveofourown.org/works/29008359/chapters/71195499' target='_blank'>KunTen</a><br>Can you tell I love kidfics?",
+      13: "<a href='https://archiveofourown.org/works/29008359/chapters/71195499' target='_blank'>KunTen</a><br>Single dad Kun with his triplets who make Ten fall even harder",
       14: "Story for Day 14!",
       15: "Story for Day 15!"
   };
