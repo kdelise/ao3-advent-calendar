@@ -13,17 +13,17 @@ document.addEventListener("DOMContentLoaded", () => {
   const messages = {
       1: "Starting off soft, here's some <br><a href='https://archiveofourown.org/works/59349097' target='_blank'>KunTen!</a>",
       2: "!NSFW! <br>As you see all NSFW ones will be marked, but heres a short <a href='https://archiveofourown.org/works/75258781' target='_blank'>SyongTonSeok</a> for today",
-      3: "!NSFW! <br><a href='https://archiveofourown.org/works/41607303' target='_blank'>SungKun</a> but make it fem",
+      3: "!NSFW! <br><a href='https://archiveofourown.org/works/41607303' target='_blank'>SungKun</a> but make it religious fem",
       4: "Some domestic <a href='https://archiveofourown.org/works/65589454' target='_blank'>JohnMark</a> <br>ft violinist Mark and soccer star Johnny",
       5: "!NSFW! <br><a href='https://archiveofourown.org/works/70983606' target='_blank'>RenSung</a> where Renjun gets his shit rocked by a guy in captain america boxers",
       6: "!NSFW! <br><a href='https://archiveofourown.org/series/4684270' target='_blank'>JiHyuk</a><br>Can you tell i love fem stories?",
-      7: "Story for Day 7!",
-      8: "Story for Day 8!",
-      9: "Story for Day 9!",
+      7: "<a href='https://archiveofourown.org/works/57112399' target='_blank'<NoMin...</a><br>I'm so sorry",
+      8: "Curve ball but it's a really cute story I promise<br><a href='https://archiveofourown.org/works/62988229' target='_blank'>Minho x Kitty</a>",
+      9: "!NSFW! <br> shitpost <a href='https://archiveofourown.org/works/71290671' target='_blank'>ChenJi</a>",
       10: "Story for Day 10!",
       11: "Story for Day 11!",
       12: "Story for Day 12!",
-      13: "Story for Day 13!",
+      13: "<a href='https://archiveofourown.org/works/29008359/chapters/71195499' target='_blank'>KunTen</a><br>Can you tell I love kidfics?",
       14: "Story for Day 14!",
       15: "Story for Day 15!"
   };
