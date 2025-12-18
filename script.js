@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
       7: "<a href='https://archiveofourown.org/works/57112399' target='_blank'>NoMin...</a><br>I'm so sorry",
       8: "Curve ball but it's a really cute story I promise<br><a href='https://archiveofourown.org/works/62988229' target='_blank'>Minho x Kitty</a>",
       9: "!NSFW! <br> shitpost <a href='https://archiveofourown.org/works/71290671' target='_blank'>ChenJi</a>",
-      10: "Story for Day 10!",
+      10: "Ryo presents and Sakuya is there to comfort him<br><a href='https://archiveofourown.org/works/68548421' target='_blank'>SakuRyo</a>",
       11: "Story for Day 11!",
       12: "Story for Day 12!",
       13: "<a href='https://archiveofourown.org/works/29008359/chapters/71195499' target='_blank'>KunTen</a><br>Single dad Kun with his triplets who make Ten fall even harder",
