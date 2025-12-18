@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
       4: "Some domestic <a href='https://archiveofourown.org/works/65589454' target='_blank'>JohnMark</a> <br>ft violinist Mark and soccer star Johnny",
       5: "!NSFW! <br><a href='https://archiveofourown.org/works/70983606' target='_blank'>RenSung</a> where Renjun gets his shit rocked by a guy in captain america boxers",
       6: "!NSFW! <br><a href='https://archiveofourown.org/series/4684270' target='_blank'>JiHyuk</a><br>Can you tell i love fem stories?",
-      7: "<a href='https://archiveofourown.org/works/57112399' target='_blank'<NoMin...</a><br>I'm so sorry",
+      7: "<a href='https://archiveofourown.org/works/57112399' target='_blank'>NoMin...</a><br>I'm so sorry",
       8: "Curve ball but it's a really cute story I promise<br><a href='https://archiveofourown.org/works/62988229' target='_blank'>Minho x Kitty</a>",
       9: "!NSFW! <br> shitpost <a href='https://archiveofourown.org/works/71290671' target='_blank'>ChenJi</a>",
       10: "Story for Day 10!",
