@@ -21,11 +21,11 @@ document.addEventListener("DOMContentLoaded", () => {
       8: "Curve ball but it's a really cute story I promise<br><a href='https://archiveofourown.org/works/62988229' target='_blank'>Minho x Kitty</a>",
       9: "!NSFW! <br> shitpost <a href='https://archiveofourown.org/works/71290671' target='_blank'>ChenJi</a>",
       10: "Ryo presents and Sakuya is there to comfort him<br><a href='https://archiveofourown.org/works/68548421' target='_blank'>SakuRyo</a>",
-      11: "I might've already sent this one<br>but enjoy trans <a href='https://archiveofourown.org/works/56401864' target='_blank'>TtoBin</a>",
-      12: "Story for Day 12!",
+      11: "!NSFW!<br>I might've already sent this one<br>but enjoy trans <a href='https://archiveofourown.org/works/56401864' target='_blank'>TtoBin</a>",
+      12: "!NSFW!<br>No this is not an omegavers fic Sion just really likes Rikus scent<br><a href='https://archiveofourown.org/works/75338351' target='_blank'>OnRi</a>",
       13: "<a href='https://archiveofourown.org/works/29008359/chapters/71195499' target='_blank'>KunTen</a><br>Single dad Kun with his triplets who make Ten fall even harder",
-      14: "Story for Day 14!",
-      15: "Story for Day 15!"
+      14: "!NSFW!<br>Sometimes the only way to get what you want is through a dick pic<br><a href='https://archiveofourown.org/works/69325236' target='_blank'>SeungYul</a>",
+      15: "!NSFW!<br>Suprise! No its not finished its only a part of it but enjoy<br><a href= target='_blank'>SungChanYoung x KunTen</a>"
   };
 
   for (let i = 1; i <= 15; i++) {
