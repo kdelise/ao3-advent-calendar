@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
       12: "!NSFW!<br>No this is not an omegavers fic Sion just really likes Rikus scent<br><a href='https://archiveofourown.org/works/75338351' target='_blank'>OnRi</a>",
       13: "<a href='https://archiveofourown.org/works/29008359/chapters/71195499' target='_blank'>KunTen</a><br>Single dad Kun with his triplets who make Ten fall even harder",
       14: "!NSFW!<br>Sometimes the only way to get what you want is through a dick pic<br><a href='https://archiveofourown.org/works/69325236' target='_blank'>SeungYul</a>",
-      15: "!NSFW!<br>Suprise! No its not finished its only a part of it but enjoy<br><a href= target='_blank'>SungChanYoung x KunTen</a>"
+      15: "!NSFW!<br>Pregnant Xiaojun takes interest in her babys aunt Yangyang<br><a href='https://archiveofourown.org/works/56231230?view_adult=true' target='_blank'>XiaoYang</a>"
   };
 
   for (let i = 1; i <= 15; i++) {
